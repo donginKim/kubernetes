@@ -1,6 +1,6 @@
 # Kops Kubernetes Deployment
 
-
+*kops는 AWS에 클러스터를 쉽게 구축하도록 도와주는 배포 툴로, 공식 가이드에도 kops로 AWS에 클러스터를 생성하는 방법이 소개되어 있다.*
 
 ## 1. 설치 선행 단계
 
