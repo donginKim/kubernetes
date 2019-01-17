@@ -282,7 +282,7 @@ kubernetes dashboard 접근 토큰
 - kubernetes dashboard 접속
 
 ```
-https://api-xxxx.ap-xxxx-2.elb.xxxx.com/api/v1/namespaces/kube-system/services/kube-dns:dns/proxy
+https://api-xxxx-xxxx.ap-xxxx-2.elb.amazonaws.com/api/v1/namespaces/kube-system/services/https:kubernetes-dashboard:/proxy/#!/login
 ```
 
 ```
@@ -290,6 +290,10 @@ username : admin
 password : kubernetes Dashboard 접근 비밀번호
 ```
 
+![pic-2](pic-2)
+
 - kubetnetes dashboard 로그인
 
   Token 선택 > kubernetes dashboard 접근 토큰 입력 > 로그인
+
+![pic-3](pic-3)
