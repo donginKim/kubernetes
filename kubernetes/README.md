@@ -1,4 +1,4 @@
-# Kubetnetes - Unit 1
+# Kubernetes - Unit 1
 
 
 
